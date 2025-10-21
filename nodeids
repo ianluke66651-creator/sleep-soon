@@ -1,0 +1,6 @@
+[
+  "tests/test_hello.py::test_hello",
+  "tests/test_sleep_analysis.py::TestSleepAnalysis::test_bad_sleep_cycle",
+  "tests/test_sleep_analysis.py::TestSleepAnalysis::test_good_sleep_cycle",
+  "tests/test_sleep_analysis.py::TestSleepAnalysis::test_no_sleep_data"
+]
